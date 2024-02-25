@@ -10,7 +10,6 @@ import Footer from "./components/Footer";
 import Separator from "./components/Separator";
 
 function App() {
-  
   return (
     <div>
       <Header />
