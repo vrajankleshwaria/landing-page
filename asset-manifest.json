@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bf45f18.css",
+    "main.js": "/static/js/main.0c283c81.js",
+    "static/js/453.34d16dd8.chunk.js": "/static/js/453.34d16dd8.chunk.js",
+    "static/media/Logo.jpeg": "/static/media/Logo.5497092f334d7141a1a2.jpeg",
+    "static/media/business.webp": "/static/media/business.9ea8c8f3c7e01c04480d.webp",
+    "static/media/sales.webp": "/static/media/sales.864356d4979bafed3900.webp",
+    "static/media/marketing.webp": "/static/media/marketing.f79e02dafcb49fe1b3a4.webp",
+    "static/media/service.webp": "/static/media/service.c27d122c0f3e273794d7.webp",
+    "static/media/noteTaker.webp": "/static/media/noteTaker.a1648ddbbc5a6cb779f7.webp",
+    "index.html": "/index.html",
+    "main.9bf45f18.css.map": "/static/css/main.9bf45f18.css.map",
+    "main.0c283c81.js.map": "/static/js/main.0c283c81.js.map",
+    "453.34d16dd8.chunk.js.map": "/static/js/453.34d16dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf45f18.css",
+    "static/js/main.0c283c81.js"
+  ]
+}
