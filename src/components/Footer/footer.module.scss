@@ -1,0 +1,39 @@
+footer {
+  background-color: #032d60;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+.socialLinks {
+  list-style: none;
+  display: flex;
+}
+
+.socialLinks li {
+  margin-right: 10px;
+}
+
+.socialLinks li a img {
+  width: 30px;
+  height: auto;
+}
+
+.mail {
+  color: #f2f9ff;
+}
+
+ion-icon {
+  color: white;
+  width: 1.6rem;
+  height: 1.6rem;
+}

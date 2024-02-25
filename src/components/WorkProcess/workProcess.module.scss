@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  justify-content: center;
+  color: #032d60;
+  padding: 2rem;
+}
+
+.workProcess {
+  height: 20rem;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.workProcess li {
+  list-style: none;
+  align-self: center;
+  color: #032d60;
+  font-weight: bold;
+  width: fit-content;
+  padding: 0.1rem;
+  margin: 0.2rem;
+  border-radius: 0.2rem;
+}
+
+.workProcess li::before {
+  content: "o ";
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.noteTaker {
+  width: 50%;
+  height: 14rem;
+}
